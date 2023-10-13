@@ -1,0 +1,9 @@
+.main{
+    max-width: 69.375rem;
+    width: 90%;
+    margin: 10rem auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    justify-items: center;
+    gap: 1.4rem;
+}

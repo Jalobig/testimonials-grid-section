@@ -1,0 +1,28 @@
+:root {
+  // Colors
+
+  /// Primary
+
+  --color-bg-primary: hsl(263, 55%, 52%);
+  --color-bg-grey-light: hsl(217, 19%, 35%);
+  --color-bg-grey: hsl(219, 29%, 14%);
+  --color-bg-white: hsl(0, 0%, 100%);
+
+  /// Neutral
+
+  --color-grey: hsl(0, 0%, 81%);
+  --color-white: hsl(210, 46%, 95%);
+}
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--color-white);
+  margin: 0;
+  font-family: "Barlow Semi Condensed", sans-serif;
+}
