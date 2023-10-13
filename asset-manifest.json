@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/testimonials-grid-section/static/css/main.ad508ddc.css",
+    "main.js": "/testimonials-grid-section/static/js/main.d69c82ac.js",
+    "static/js/787.d530fc50.chunk.js": "/testimonials-grid-section/static/js/787.d530fc50.chunk.js",
+    "index.html": "/testimonials-grid-section/index.html",
+    "static/media/bg-pattern-quotation.svg": "/testimonials-grid-section/static/media/bg-pattern-quotation.6b460e30439432820da617334668e2b6.svg",
+    "main.ad508ddc.css.map": "/testimonials-grid-section/static/css/main.ad508ddc.css.map",
+    "main.d69c82ac.js.map": "/testimonials-grid-section/static/js/main.d69c82ac.js.map",
+    "787.d530fc50.chunk.js.map": "/testimonials-grid-section/static/js/787.d530fc50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad508ddc.css",
+    "static/js/main.d69c82ac.js"
+  ]
+}
